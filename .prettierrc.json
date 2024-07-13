@@ -1,4 +1,7 @@
 {
   "singleQuote": true,
-  "semi": false
+  "semi": false,
+  "endOfLine": "crlf",
+  "htmlWhitespaceSensitivity": "ignore",
+  "trailingComma": "es5"
 }
